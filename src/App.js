@@ -1,5 +1,5 @@
 import logo from './logo.svg';
-import './App.css';
+import logo from './Hafiz.extension';
 
 function App() {
   return (
