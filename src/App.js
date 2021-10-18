@@ -1,5 +1,5 @@
-import logo from './logo.svg';
-import logo from './Hafiz.extension';
+//import logo from './logo.svg';
+import logo from './image_1.jpg';
 
 function App() {
   return (
@@ -14,7 +14,8 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          //href="https://reactjs.org"
+          href="https://github.com/sheikh-hafiz/hello-world"
           target="_blank"
           rel="noopener noreferrer"
         >
